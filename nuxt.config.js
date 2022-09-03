@@ -74,13 +74,13 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    // '~/assets/transition.scss',
-    // '~/assets/vuetify-overide.scss',
-    // '~/assets/vendors/animate.css',
-    // '~/assets/vendors/animate-extends.css',
-    // '~/assets/vendors/hamburger-menu.css',
-    // '~/assets/vendors/slick-carousel/slick.css',
-    // '~/assets/vendors/slick-carousel/slick-theme.css'
+    '~/assets/transition.scss',
+    '~/assets/vuetify-overide.scss',
+    '~/assets/vendors/animate.css',
+    '~/assets/vendors/animate-extends.css',
+    '~/assets/vendors/hamburger-menu.css',
+    '~/assets/vendors/slick-carousel/slick.css',
+    '~/assets/vendors/slick-carousel/slick-theme.css'
   ],
   /*
   ** Plugins to load before mounting the App
